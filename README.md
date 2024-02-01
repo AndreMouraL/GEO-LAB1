@@ -1,3 +1,5 @@
+![V](https://github.com/AndreMouraL/GEO-LAB1/assets/117699977/01af89b6-2862-4d3a-8d6f-41ad8851e468)
+
 Vá para o site da OpenCage Geocoding: https://opencagedata.com/.
 
 No canto superior direito da página, clique em "Sign Up" para criar uma conta.
